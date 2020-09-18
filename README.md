@@ -33,9 +33,9 @@
 <img src="images/todoey.gif" width="250" />
 
 ### Built With
-* [Realm Swift][https://realm.io/]
-* [SwipeCellKit][https://github.com/SwipeCellKit/SwipeCellKit]
-* [Chameleon Framework][https://github.com/viccsmind/Chameleon]
+* [Realm Swift](https://realm.io/)
+* [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)
+* [Chameleon Framework](https://github.com/viccsmind/Chameleon)
 
 <!-- Learning Outcomes -->
 ## Learning Outcomes
