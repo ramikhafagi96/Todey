@@ -24,6 +24,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* Learning Outcomes
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -36,6 +37,12 @@
 * [SwipeCellKit][https://github.com/SwipeCellKit/SwipeCellKit]
 * [Chameleon Framework][https://github.com/viccsmind/Chameleon]
 
+<!-- Learning Outcomes -->
+## Learning Outcomes
+* Persisting data in database using Realm Swift
+* Data modelling in Realm and having relationships between entities
+* Adding external UITableViewCell using SwipeCellKit
+* Adding beautiful color gradients using Chameleon Framework
 <!-- CONTACT -->
 ## Contact
 
