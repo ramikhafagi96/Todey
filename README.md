@@ -11,10 +11,7 @@
   <p align="center">
     An awesome Todo List Application
     <br />
-    <a href="https://github.com/ramikhafagi96/Todoey"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ramikhafagi96/Todoey">View Demo</a>
+    <a href="https://github.com/ramikhafagi96/Todoey#about-the-project">View Demo</a>
     ·
     <a href="https://github.com/ramikhafagi96/Todoey/issues">Report Bug</a>
     ·
